@@ -2,12 +2,10 @@
 𝐈’𝐌 𝐀 𝐕𝐈𝐋𝐋𝐀𝐍𖣘
 
 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐆-𝐁𝐎𝐓
-<h1 align="center"> ANONYMUS-BUG </h1> 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<h1 align="center"> ANONYMUS-BUG </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Purple&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+ANONYMUS-BUG;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAMS+SHADOW" alt="Typing SVG" /></a>
   </p>
