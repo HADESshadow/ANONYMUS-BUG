@@ -1,7 +1,7 @@
 # ANONYMUS-BUG
 𝐈’𝐌 𝐀 𝐕𝐈𝐋𝐋𝐀𝐍𖣘
 
-WHATSAPP BOT MULTIFONCTIONS 
+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐆-𝐁𝐎𝐓
 <h1 align="center"> ANONYMUS-BUG </h1> 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
