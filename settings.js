@@ -1,35 +1,35 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @PAEDULZ
+//Instagram: muhammadfaidhulasani
+//Telegram: none
+//GitHub: none
+//WhatsApp: +6285133270996
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@PAEDULZ
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "🦄Dream Guy Xeon"
-global.ytname = "YT: Xeon"
+global.ownernomer = "6285133270996"
+global.ownername = "🦄PAEDULZ"
+global.ytname = "YT: PAEDULZ"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '916909137213'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '6285133270996'  //creator number
+global.ownername = '🦄PAEDULZ' //owner name
+global.botname = 'PAEDULZ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = '🦄PAEDULZ\n\nContact: +6285133270996'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "PAEDULZ Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = 'https://www.youtube.com/@gabriel-Mods2024'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']

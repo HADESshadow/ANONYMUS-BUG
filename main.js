@@ -111,7 +111,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             if (!XeonBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
             if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
             const m = smsg(XeonBotInc, mek, store)
-            require("./XeonBug8")(XeonBotInc, m, chatUpdate, store)
+            require("./XeonBug7")(XeonBotInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
@@ -260,85 +260,6 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         await fs.writeFileSync(trueFileName, buffer)
         return trueFileName
     }
-    
-    XeonBotInc.getFile = async (PATH, save) => {
-        let res
-        let data = Buffer.isBuffer(PATH) ? PATH : /^data:.*?\/.*?;base64,/i.test(PATH) ? Buffer.from(PATH.split`,`[1], 'base64') : /^https?:\/\//.test(PATH) ? await (res = await getBuffer(PATH)) : fs.existsSync(PATH) ? (filename = PATH, fs.readFileSync(PATH)) : typeof PATH === 'string' ? PATH : Buffer.alloc(0)
-        //if (!Buffer.isBuffer(data)) throw new TypeError('Result is not a buffer')
-        let type = await FileType.fromBuffer(data) || {
-            mime: 'application/octet-stream',
-            ext: '.bin'
-        }
-        filename = path.join(__filename, '../src/' + new Date * 1 + '.' + type.ext)
-        if (data && save) fs.promises.writeFile(filename, data)
-        return {
-            res,
-            filename,
-	    size: await getSizeMedia(data),
-            ...type,
-            data
-        }
-
-    }
-    
-    XeonBotInc.sendFile = async (jid, path, filename = '', caption = '', quoted, ptt = false, options = {}) => {
-  let type = await XeonBotInc.getFile(path, true);
-  let { res, data: file, filename: pathFile } = type;
-
-  if (res && res.status !== 200 || file.length <= 65536) {
-    try {
-      throw {
-        json: JSON.parse(file.toString())
-      };
-    } catch (e) {
-      if (e.json) throw e.json;
-    }
-  }
-
-  let opt = {
-    filename
-  };
-
-  if (quoted) opt.quoted = quoted;
-  if (!type) options.asDocument = true;
-
-  let mtype = '',
-    mimetype = type.mime,
-    convert;
-
-  if (/webp/.test(type.mime) || (/image/.test(type.mime) && options.asSticker)) mtype = 'sticker';
-  else if (/image/.test(type.mime) || (/webp/.test(type.mime) && options.asImage)) mtype = 'image';
-  else if (/video/.test(type.mime)) mtype = 'video';
-  else if (/audio/.test(type.mime)) {
-    convert = await (ptt ? toPTT : toAudio)(file, type.ext);
-    file = convert.data;
-    pathFile = convert.filename;
-    mtype = 'audio';
-    mimetype = 'audio/ogg; codecs=opus';
-  } else mtype = 'document';
-
-  if (options.asDocument) mtype = 'document';
-
-  delete options.asSticker;
-  delete options.asLocation;
-  delete options.asVideo;
-  delete options.asDocument;
-  delete options.asImage;
-
-  let message = { ...options, caption, ptt, [mtype]: { url: pathFile }, mimetype };
-  let m;
-
-  try {
-    m = await XeonBotInc.sendMessage(jid, message, { ...opt, ...options });
-  } catch (e) {
-    //console.error(e)
-    m = null;
-  } finally {
-    if (!m) m = await XeonBotInc.sendMessage(jid, { ...message, [mtype]: file }, { ...opt, ...options });
-    file = null;
-    return m;
-  }
-}
 
     XeonBotInc.downloadMediaMessage = async (message) => {
         let mime = (message.msg || message).mimetype || ''
