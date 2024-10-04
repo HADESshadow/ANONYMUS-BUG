@@ -9,24 +9,24 @@
 
 <h1 align="center"> ANONYMUS-BUG </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Purple&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+UNKNOWN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAMS+UNKNOWN" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Purple&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+ANONYMUS-BUG;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAMS+SHADOW" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<img src="https://telegra.ph/file/69a6ade6cf290c7480ce4.jpg" />
+<img src="https://files.catbox.moe/cv3jin.jpg" />
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 <p align="center">
-<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/HADESshadow"><img title="Author" src="https://img.shields.io/badge/ANONYMUS-BUG-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Alp24ni?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Alp24ni?label=Followers&style=social"></a>
-<a href="https://github.com/Alp24ni/SASAKI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Alp24ni/SASAKI-MD?&style=social"></a>
-<a href="https://github.com/Alp24ni/SASAKI-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Alp24ni/SASAKI-MD?style=social"></a>
-<a href="https://github.com/Alp24ni/SASAKI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD?label=Watching&style=social"></a>
+<a href="https://github.com/HADESshadow?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HADESshadow?label=Followers&style=social"></a>
+<a href="https://github.com/HADESshadow/ANONYMUS-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HADESshadow/ANONYMUS-BUG?&style=social"></a>
+<a href="https://github.com/HADESshadow/ANONYMUS-BUG/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HADESshadow/ANONYMUS-BUG?style=social"></a>
+<a href="https://github.com/HADESshadow/ANONYMUS-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HADESshadow/ANONYMUS-BUG?label=Watching&style=social"></a>
 </p>
 
 <h3 align="center"> ANONYMUS-BUG WHATSAPP BUG BOT</h3>
@@ -35,7 +35,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/LodC7PAeQHA3SX5E180OPM"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242053893645"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/HADESshadow"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/LodC7PAeQHA3SX5E180OPM"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242053893645"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
   
 ### 1. FORK THIS REPO
