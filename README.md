@@ -35,7 +35,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242053893645"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/LodC7PAeQHA3SX5E180OPM"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242053893645"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
   
 ### 1. FORK THIS REPO
@@ -43,7 +43,7 @@
 <a href='https://github.com/UNKOWNJIN/UNKNOWN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
-### 2. GET SESSION_ID BY TEAMS UNKNOWN
+### 2. GET SESSION_ID BY 𝐉𝐈𝐍 𝐒𝐀𝐒𝐀𝐊𝐈
 
 ### QR CODE.
 <a href='https://web-qr-64jj.onrender.com/' target="_blank"><img alt='QR-CODE' src='https://img.shields.io/badge/QR-CODE-Purple?style=for-the-badge&logo=git&logoColor=purple'/></a>
