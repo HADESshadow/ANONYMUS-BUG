@@ -35,7 +35,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/221768649590"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242053893645"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
   
 ### 1. FORK THIS REPO
