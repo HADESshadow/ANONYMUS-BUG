@@ -38,7 +38,7 @@
   
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/UNKOWNJIN/UNKNOWN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/HADESshadow/ANONYMUS-BUG/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 ### 2. GET SESSION_ID BY 𝐉𝐈𝐍 𝐒𝐀𝐒𝐀𝐊𝐈
