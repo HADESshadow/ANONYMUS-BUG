@@ -14,7 +14,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V1+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+JIN;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+ANONYMUS-BUG)](https://github.com/HADESshadow)
+[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+JIN;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+ANONYMUS-BUG)](https://github.com/HADESshadow)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
