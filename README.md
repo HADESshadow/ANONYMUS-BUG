@@ -140,7 +140,7 @@
 
 <a href="https://github.com/Alp24ni"><img src="https://github.com/Alp24ni.png" alt="Alp24ni"/></a>
 
-<a href="https://github.com/BarryAllen100"><img src="https://github.com/BarryAllen100" alt="BarryAllen100"/></a>
+<a href="https://github.com/BarryAllen100"><img src="https://github.com/BarryAllen100.png" alt="BarryAllen100"/></a>
 
 
 <h2 align="center"> Star This Repo If You like ANONYMUS-BUG🌟
